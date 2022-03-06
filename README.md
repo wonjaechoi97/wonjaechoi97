@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wonjaechoi97
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, web service
+- 🌱 I’m currently learning Java, html, css, javascript..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me     ------->wj5295@naver.com
 
