@@ -2,8 +2,7 @@
 
 
 ## CHOI WON JAE 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=wj5295)](https://solved.ac/wj5295)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wj5295)](https://solved.ac/wj5295)
 
 
 ## SKILLS 
